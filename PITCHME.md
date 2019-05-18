@@ -10,7 +10,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Customize Slide Content Layout dgarciga
 @snapend
 
 @snap[east span-50]
